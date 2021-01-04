@@ -20,7 +20,7 @@ $ sudo pip3 install openpyxl
 For each of the 11 languages, download Typeform data for that quarter in XLSX format. Name the files {ISO-CODE}.xlsx like DE.xlsx
 
 ### 2. Open the code in Jupyter notebook
-Move the code from the “newest” folder to a new folder and put all the xlsx files into it. 
+Move the code to a new folder and put all the xlsx files into it. 
 
 ```bash
 $ cd /your-new-directory 
