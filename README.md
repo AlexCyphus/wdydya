@@ -28,7 +28,7 @@ $ jupyter-lab .
 ```
 
 ### 3. Run the code and hope for the best 
-If Typeform changed the schema of their data or Python has changed good luck! 
+If Typeform changed the schema of their data or there is a fresh bug in the code good luck! 
 
 ### 4. Copy the results to the Google Sheet
 https://docs.google.com/spreadsheets/d/1i-KFaVVtraIjp5YcmbzrfYEugahTjEvSbhaxe2mHpCs/edit#gid=1759956839
